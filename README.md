@@ -28,3 +28,18 @@ sudo apt-get install -y nodejs
 ```bash
 gh extension install github/gh-copilot
 ```
+
+## Mocha (Nodejs Testing Framework)
+```bash
+npm install --save-dev mocha
+```
+
+## Express (Nodejs Web Framework)
+```bash
+npm install --save express
+```
+
+## Request (Nodejs HTTP client lib)
+```bash
+npm install --save-dev request
+```
